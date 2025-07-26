@@ -51,7 +51,7 @@ Getting Started
 1. Clone this repository
 
 bash
-git clone https://github.com/yourusername/ManageDrone.git
+git clone https://github.com/14mb1v45h/cyberdudebivash-s-ManageDrone-application.git
 cd ManageDrone
 2. Install dependencies
 
